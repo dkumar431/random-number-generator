@@ -1,0 +1,22 @@
+{
+  "name": "random-number-generator",
+  "version": "1.0.0",
+  "description": "A random number generator utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkumar431/random-number-generator.git"
+  },
+  "keywords": [
+    "random-number-generator"
+  ],
+  "author": "Deepak Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkumar431/random-number-generator/issues"
+  },
+  "homepage": "https://github.com/dkumar431/random-number-generator#readme"
+}
